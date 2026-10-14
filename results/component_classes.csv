@@ -1,0 +1,311 @@
+product,component,records
+sooperset:mcp-atlassian,MCP server,34
+czlonkowski:n8n-mcp,MCP server,9
+samanhappy:mcphub,MCP server,8
+ondata:ckan-mcp-server,MCP server,6
+Google:mcp-toolbox,MCP server,5
+Flux159:mcp-server-kubernetes,MCP server,4
+dbt-labs:dbt-mcp,MCP server,4
+doobidoo:mcp-memory-service,MCP server,4
+ihor-sokoliuk:mcp-searxng,MCP server,4
+agentfront:frontmcp,MCP server,3
+mastergo-design:mastergo-magic-mcp,MCP server,3
+pipeboard-co:meta-ads-mcp,MCP server,3
+sonirico:mcp-shell,MCP server,3
+zereight:gitlab-mcp,MCP server,3
+54yyyu:code-mcp,MCP server,2
+AlejandroArciniegas:mcp-data-vis,MCP server,2
+Apache Software Foundation:Apache Doris MCP Server,MCP server,2
+Apache Software Foundation:Apache SkyWalking MCP,MCP server,2
+EnzoVezzaro:mcp-dominican-layer,MCP server,2
+Google:MCP Toolbox for Databases,MCP server,2
+Google:MCP Toolbox for Databases (googleapis/mcp-toolbox),MCP server,2
+Grafana:Grafana MCP Server,MCP server,2
+IBM:mcp-context-forge,MCP server,2
+MissionSquad:mcp-api,MCP server,2
+Royal Plugins:Royal MCP,MCP server,2
+apify:apify-mcp-server,MCP server,2
+arikusi:deepseek-mcp-server,MCP server,2
+aws-mcp-server:aws-mcp-server,MCP server,2
+bitbonsai:mcpvault,MCP server,2
+github:github-mcp-server,MCP server,2
+homeassistant-ai:ha-mcp,MCP server,2
+mobile-next:mobile-mcp,MCP server,2
+0-Gaurav-0:nexus-mcp,MCP server,1
+00Kisumi00:mcp-file-analyzer,MCP server,1
+0215AndrewFeng:ACE-MCP,MCP server,1
+03-lovepreetSingh:MCP,MCP server,1
+611711Dark:mcp_calculate_server,MCP server,1
+AIAnytime:Awesome-MCP-Server,MCP server,1
+AWS:AWS API MCP Server,MCP server,1
+AWS:AWS Labs postgres MCP Server,MCP server,1
+AWS:AWS Security Agent MCP server,MCP server,1
+AWS:amazon-mq-mcp-server,MCP server,1
+AWS:aws-api-mcp-server,MCP server,1
+AWS:aws-healthomics-mcp-server,MCP server,1
+AWS:awslabs.healthlake-mcp-server,MCP server,1
+AWS:documentdb-mcp-server,MCP server,1
+Algovate:xhs-mcp,MCP server,1
+Alibaba:Alibaba Cloud RDS OpenAPI MCP Server,MCP server,1
+Amazon:postgres-mcp-server,MCP server,1
+ArtMin96:yii2-mcp-server,MCP server,1
+Axle-Bucamp:MCP-Docusaurus,MCP server,1
+Bilal Naseer:WSP MCP &#8211; AI Agents Connector,MCP server,1
+Braffolk:mcp-summarization-functions,MCP server,1
+BurtTheCoder:mcp-dnstwist,MCP server,1
+BurtTheCoder:mcp-maigret,MCP server,1
+Cascadia Web Services:MountDev AI MCP Connector for WordPress,MCP server,1
+ChromeDevTools:chrome-devtools-mcp,MCP server,1
+Code Runner MCP Server:Code Runner MCP Server,MCP server,1
+Coding-Solo:godot-mcp,MCP server,1
+CursorTouch:Windows-MCP,MCP server,1
+Dayoooun:hwpx-mcp,MCP server,1
+Flux159:mcp-game-asset-gen,MCP server,1
+Framelink:Figma MCP Server,MCP server,1
+GeiserX:genieacs-mcp,MCP server,1
+Hulupeep:mcp-ui-probe,MCP server,1
+Jenkins Project:Jenkins MCP Server Plugin,MCP server,1
+JoeCastrom:mcp-chat-studio,MCP server,1
+Kino-Kafkaesque:ssh-mcp-server,MCP server,1
+KongHQ:mcp-konnect,MCP server,1
+Labs64:NetLicensing-MCP,MCP server,1
+MCP Manager for Claude Desktop:MCP Manager for Claude Desktop,MCP server,1
+MIMICLab:mcp-pdf-vision,MCP server,1
+MarcelRoozekrans:roslyn-codelens-mcp,MCP server,1
+Microsoft:Azure MCP Server Tools 1.0.0 (npm),MCP server,1
+Model Context Protocol:mcp-rdf-explorer,MCP server,1
+Ollama MCP Server:Ollama MCP Server,MCP server,1
+Oracle Corporation:Oracle MCP Server Helper Tool product of Oracle Open Source Projects,MCP server,1
+PolarVista:xcode-mcp-server,MCP server,1
+QWED-AI:qwed-mcp,MCP server,1
+SepineTam:mcp-for-stata,MCP server,1
+SepineTam:stata-mcp,MCP server,1
+"Sheikh Heera:Agentimus – AI SEO, llms.txt &amp; MCP for AI Agents",MCP server,1
+Splunk:Splunk MCP Server,MCP server,1
+Splunk:Splunk MCP Server app,MCP server,1
+Sunwood-ai-labs:command-executor-mcp-server,MCP server,1
+TencentCloudBase:CloudBase-MCP,MCP server,1
+That1Drifter:browse-mcp,MCP server,1
+TimBroddin:astro-mcp-server,MCP server,1
+Toowiredd:chatgpt-mcp-server,MCP server,1
+VetCoders:mcp-server-semgrep,MCP server,1
+WilliamCloudQi:matlab-mcp-server,MCP server,1
+YosefHayim:ebay-mcp,MCP server,1
+ZachHandley:ZMCPTools,MCP server,1
+adenot:mcp-google-search,MCP server,1
+aerostackdev:aerostack-mcp,MCP server,1
+akutishevsky:sf-mcp-server,MCP server,1
+andrea9293:mcp-documentation-server,MCP server,1
+andreahaku:codex_mcp,MCP server,1
+apify:actors-mcp-server,MCP server,1
+apollographql:apollo-mcp-server,MCP server,1
+appium:appium-mcp,MCP server,1
+arben-adm:mcp-sequential-thinking,MCP server,1
+argoproj-labs:argocd-mcp,MCP server,1
+awwaiid:mcp-server-taskwarrior,MCP server,1
+bsmi021:mcp-file-context-server,MCP server,1
+bx33661:Wireshark-MCP,MCP server,1
+cascadiawebservices:MountDev AI MCP Connector for WordPress,MCP server,1
+cbcoutinho:nextcloud-mcp-server,MCP server,1
+contentful:contentful-mcp-server,MCP server,1
+crazyrabbitLTC:mcp-code-review-server,MCP server,1
+crystaldba:postgres-mcp,MCP server,1
+debugmcp:mcp-debugger,MCP server,1
+designcomputer:mysql_mcp_server,MCP server,1
+dmitryglhf:mcp-url-downloader,MCP server,1
+dropbox:mcp-server-dash,MCP server,1
+dtwang:line-desktop-mcp,MCP server,1
+dvladimirov:MCP,MCP server,1
+egtai:gmx-vmd-mcp,MCP server,1
+elie:mcp-project,MCP server,1
+ezequiroga:mcp-bases,MCP server,1
+haris-musa:excel-mcp-server,MCP server,1
+horizon921:mcpilot,MCP server,1
+hypermodel-labs:mcp-server-auto-commit,MCP server,1
+idachev:mcp-javadc,MCP server,1
+imprvhub:mcp-browser-agent,MCP server,1
+isaacwasserman:mcp-vegalite-server,MCP server,1
+j3k0:mcp-google-workspace,MCP server,1
+jimprosser:obsidian-web-mcp,MCP server,1
+jkawamoto:mcp-florence2,MCP server,1
+kazuph:mcp-docs-rag,MCP server,1
+kazuph:mcp-fetch,MCP server,1
+leshchenko1979:fast-mcp-telegram,MCP server,1
+mcp-server-siri-shortcuts:mcp-server-siri-shortcuts,MCP server,1
+mixelpixx:Google-Research-MCP,MCP server,1
+mkreyman:mcp-memory-keeper,MCP server,1
+mzxrai:mcp-webresearch,MCP server,1
+neo4j-contrib:mcp-neo4j,MCP server,1
+pab1it0:adx-mcp-server,MCP server,1
+pixelsock:directus-mcp,MCP server,1
+privsim:mcp-test-runner,MCP server,1
+priyankark:a11y-mcp,MCP server,1
+puchunjie:doc-tools-mcp,MCP server,1
+r-huijts:mcp-server-rijksmuseum,MCP server,1
+ravenwits:mcp-server-arangodb,MCP server,1
+roomi-fields:notebooklm-mcp,MCP server,1
+ryanjoachim:mcp-rtfm,MCP server,1
+smn2gnt:MCP-Salesforce,MCP server,1
+startreedata:mcp-pinot,MCP server,1
+sworddut:mcp-ffmpeg-helper,MCP server,1
+team-telnyx:telnyx-mcp,MCP server,1
+timescale:tiger-gh-mcp-server,MCP server,1
+tumf:mcp-text-editor,MCP server,1
+verygoodplugins:whatsapp-mcp,MCP server,1
+vmoranv:jshookmcp,MCP server,1
+"wpdevteam:BetterLinks – Link Shortener, Link Cloaking, Redirects, Affiliate Link Manager & MCP",MCP server,1
+ymw0407:auth-fetch-mcp,MCP server,1
+yoda-digital:mcp-gitlab-server,MCP server,1
+zereight:mcp-gitlab,MCP server,1
+IBM:Langflow OSS,host/client/agent platform,15
+MervinPraison:PraisonAI,host/client/agent platform,12
+OpenClaw:OpenClaw,host/client/agent platform,11
+n8n-io:n8n,host/client/agent platform,10
+FlowiseAI:Flowise,host/client/agent platform,7
+danny-avila:LibreChat,host/client/agent platform,7
+1Panel-dev:MaxKB,host/client/agent platform,6
+siyuan-note:siyuan,host/client/agent platform,6
+better-auth:better-auth,host/client/agent platform,4
+mwtcmi:frogman,host/client/agent platform,4
+runZero:Platform,host/client/agent platform,4
+ArcadeData:arcadedb,host/client/agent platform,3
+Flowise:Flowise,host/client/agent platform,3
+Jovancoding:Network-AI,host/client/agent platform,3
+Tencent:WeKnora,host/client/agent platform,3
+nocodb:nocodb,host/client/agent platform,3
+stacklok:toolhive,host/client/agent platform,3
+AstrBotDevs:AstrBot,host/client/agent platform,2
+DayuanJiang:next-ai-draw-io,host/client/agent platform,2
+Dragonmonk111:junoclaw,host/client/agent platform,2
+GitLab:GitLab,host/client/agent platform,2
+Hmbown:CodeWhale,host/client/agent platform,2
+NousResearch:hermes-agent,host/client/agent platform,2
+Red Hat:Red Hat Ansible Automation Platform 2,host/client/agent platform,2
+bytebase:dbhub,host/client/agent platform,2
+knowns-dev:knowns,host/client/agent platform,2
+labring:FastGPT,host/client/agent platform,2
+nanbingxyz:5ire,host/client/agent platform,2
+pdovhomilja:nextcrm-app,host/client/agent platform,2
+ruvnet:sublinear-time-solver,host/client/agent platform,2
+0xJacky:nginx-ui,host/client/agent platform,1
+1Panel-dev:CordysCRM,host/client/agent platform,1
+78:xiaozhi-esp32,host/client/agent platform,1
+Aas-ee:open-webSearch,host/client/agent platform,1
+Autodesk:Fusion,host/client/agent platform,1
+CherryHQ:cherry-studio,host/client/agent platform,1
+Dataojitori:nocturne_memory,host/client/agent platform,1
+F1bonacc1:process-compose,host/client/agent platform,1
+GH05TCREW:PentestAgent,host/client/agent platform,1
+Gitlawb:openclaude,host/client/agent platform,1
+HKUDS:DeepTutor,host/client/agent platform,1
+HKUDS:Vibe-Trading,host/client/agent platform,1
+HKUDS:nanobot,host/client/agent platform,1
+HashiCorp:Tooling,host/client/agent platform,1
+IBM:Financial Transaction Manager (FTM) for RedHat OpenShift,host/client/agent platform,1
+JetBrains:PyCharm,host/client/agent platform,1
+JetBrains:YouTrack,host/client/agent platform,1
+Klarso GmbH:neo-mjs,host/client/agent platform,1
+LiuMengxuan04:MiniCode,host/client/agent platform,1
+Mattermost:Mattermost,host/client/agent platform,1
+Microsoft:Azure Web Apps,host/client/agent platform,1
+Microsoft:Playwright,host/client/agent platform,1
+Moonshot AI:Kimi Code,host/client/agent platform,1
+OpenAI:Codex CLI,host/client/agent platform,1
+OpenAgentPlatform:Dive,host/client/agent platform,1
+Openpanel-dev:openpanel,host/client/agent platform,1
+Oraios AI:Serena,host/client/agent platform,1
+Q00:ouroboros,host/client/agent platform,1
+Rapid7:Platform,host/client/agent platform,1
+Red Hat:Red Hat Satellite 6.18,host/client/agent platform,1
+RooCodeInc:Roo-Code,host/client/agent platform,1
+StacklokLabs:mkp,host/client/agent platform,1
+Uptash:Context7,host/client/agent platform,1
+Work90210:APIFold,host/client/agent platform,1
+ZenHive:mpp,host/client/agent platform,1
+agenticmail:@agenticmail/core,host/client/agent platform,1
+agenticmail:agenticmail,host/client/agent platform,1
+aiyiyi121:SxDevOps,host/client/agent platform,1
+anthropics:claude-code-action,host/client/agent platform,1
+ash-project:ash_ai,host/client/agent platform,1
+blinkospace:blinko,host/client/agent platform,1
+bytedance:UI-TARS-desktop,host/client/agent platform,1
+cdeust:Cortex,host/client/agent platform,1
+chatboxai:chatbox,host/client/agent platform,1
+cline:cline,host/client/agent platform,1
+coroot:coroot,host/client/agent platform,1
+dep0we:atomic-agents-stack,host/client/agent platform,1
+dh1011:auto-favicon,host/client/agent platform,1
+eat-pray-ai:yutu,host/client/agent platform,1
+erupts:erupt,host/client/agent platform,1
+flipped-aurora:gin-vue-admin,host/client/agent platform,1
+getzep:graphiti,host/client/agent platform,1
+github:copilot-cli,host/client/agent platform,1
+hyperterse:hyperterse,host/client/agent platform,1
+janhq:jan,host/client/agent platform,1
+langbot-app:LangBot,host/client/agent platform,1
+langflow-ai:langflow,host/client/agent platform,1
+lightdash:lightdash,host/client/agent platform,1
+marimo-team:marimo,host/client/agent platform,1
+mauriceboe:TREK,host/client/agent platform,1
+maximhq:Bifrost,host/client/agent platform,1
+merill:lokka,host/client/agent platform,1
+microsoft:UFO,host/client/agent platform,1
+mims-harvard:ToolUniverse,host/client/agent platform,1
+modelcontextprotocol:servers,host/client/agent platform,1
+nanocoai:NanoClaw,host/client/agent platform,1
+nhost:nhost,host/client/agent platform,1
+nicolargo:glances,host/client/agent platform,1
+ogx-ai:ogx,host/client/agent platform,1
+omnigent-ai:omnigent,host/client/agent platform,1
+onyx-dot-app:onyx,host/client/agent platform,1
+oraios:serena,host/client/agent platform,1
+orval-labs:orval,host/client/agent platform,1
+penpot:penpot,host/client/agent platform,1
+presenton:presenton,host/client/agent platform,1
+prolix-oc:Lumiverse,host/client/agent platform,1
+pskill9:website-downloader,host/client/agent platform,1
+rmyndharis:OpenWA,host/client/agent platform,1
+rowboatlabs:rowboat,host/client/agent platform,1
+ruvnet:agentic-flow,host/client/agent platform,1
+ruvnet:ruflo,host/client/agent platform,1
+tailcallhq:forgecode,host/client/agent platform,1
+timescale:pg-aiguide,host/client/agent platform,1
+timescale:tiger-slack,host/client/agent platform,1
+yamadashy:repomix,host/client/agent platform,1
+modelcontextprotocol:ruby-sdk,sdk/framework/gateway,6
+BerriAI:litellm,sdk/framework/gateway,5
+IBM:ContextForge MCP Gateway,sdk/framework/gateway,5
+modelcontextprotocol:registry,sdk/framework/gateway,5
+decolua:9router,sdk/framework/gateway,4
+modelcontextprotocol:rust-sdk,sdk/framework/gateway,4
+jlowin:fastmcp,sdk/framework/gateway,3
+modelcontextprotocol:go-sdk,sdk/framework/gateway,3
+modelcontextprotocol:python-sdk,sdk/framework/gateway,3
+"tigroumeow:AI Engine – The Chatbot, AI Framework & MCP for WordPress",sdk/framework/gateway,3
+modelcontextprotocol:java-sdk,sdk/framework/gateway,2
+AWS:MCP Gateway & Registry,sdk/framework/gateway,1
+Anthropic:MCP TypeScript SDK,sdk/framework/gateway,1
+Google:mcp-toolbox-sdk-python,sdk/framework/gateway,1
+IBM:ContextForge MCP Gateway (`mcp-contextforge-gateway`),sdk/framework/gateway,1
+IBM:ContextForge MCP Gateway - Translate utility,sdk/framework/gateway,1
+INQUIRELAB:mcp-bridge-api,sdk/framework/gateway,1
+Kong:Kong Enteprise Gateway,sdk/framework/gateway,1
+MCPJam:inspector,sdk/framework/gateway,1
+PrefectHQ:fastmcp,sdk/framework/gateway,1
+QuantGeekDev:mcp-framework,sdk/framework/gateway,1
+Spring:Spring AI,sdk/framework/gateway,1
+agentgateway:agentgateway,sdk/framework/gateway,1
+docker:mcp-gateway,sdk/framework/gateway,1
+eLyiN:gemini-bridge,sdk/framework/gateway,1
+mark3labs:mcp-go,sdk/framework/gateway,1
+mcp-router:mcp-router,sdk/framework/gateway,1
+mcp-use:mcp-use,sdk/framework/gateway,1
+modelcontextprotocol:io.modelcontextprotocol:kotlin-sdk,sdk/framework/gateway,1
+modelcontextprotocol:php-sdk,sdk/framework/gateway,1
+modelcontextprotocol:typescript-sdk,sdk/framework/gateway,1
+spring-ai-community:mcp-security,sdk/framework/gateway,1
+sysown:proxysql,sdk/framework/gateway,1
+n/a:n/a,unclassifiable,21
+undefined:undefined,unclassifiable,3
+Unknown:AI Copilot,unclassifiable,1
+Unknown:Royal MCP,unclassifiable,1

@@ -1,0 +1,565 @@
+id,published,cvss,cwe,product,query
+CVE-2026-0621,2026-01-05,7.5,CWE-1333,Anthropic:MCP TypeScript SDK,MCP
+CVE-2025-61489,2026-01-07,6.5,CWE-77,n/a:n/a,MCP
+CVE-2025-67366,2026-01-07,7.5,CWE-23,n/a:n/a,MCP
+CVE-2025-9611,2026-01-07,7.2,CWE-749,Microsoft:Playwright,MCP
+CVE-2026-22688,2026-01-10,9.9,CWE-77,Tencent:WeKnora,MCP
+CVE-2025-66689,2026-01-12,6.5,CWE-22/CWE-552,n/a:n/a,MCP
+CVE-2026-22252,2026-01-12,9.1,CWE-285,danny-avila:LibreChat,MCP
+CVE-2026-22785,2026-01-12,9.8,CWE-77,orval-labs:orval,MCP
+CVE-2026-23523,2026-01-16,9.6,CWE-94,OpenAgentPlatform:Dive,MCP
+CVE-2026-23744,2026-01-16,9.8,CWE-306,MCPJam:inspector,MCP
+CVE-2026-22792,2026-01-21,9.6,CWE-116,nanbingxyz:5ire,MCP+Model Context Protocol
+CVE-2026-22793,2026-01-21,9.6,CWE-94,nanbingxyz:5ire,Model Context Protocol
+CVE-2025-15061,2026-01-23,9.8,CWE-78,Framelink:Figma MCP Server,MCP
+CVE-2025-15063,2026-01-23,9.8,CWE-78,Ollama MCP Server:Ollama MCP Server,MCP
+CVE-2026-0757,2026-01-23,8.8,CWE-78,MCP Manager for Claude Desktop:MCP Manager for Claude Desktop,MCP
+CVE-2026-0758,2026-01-23,7.8,CWE-78,mcp-server-siri-shortcuts:mcp-server-siri-shortcuts,MCP
+CVE-2026-25536,2026-02-04,7.1,CWE-362/CWE-367,modelcontextprotocol:typescript-sdk,MCP+Model Context Protocol
+CVE-2026-25546,2026-02-04,7.8,CWE-78,Coding-Solo:godot-mcp,MCP+Model Context Protocol
+CVE-2026-1977,2026-02-06,6.3,CWE-74/CWE-94,isaacwasserman:mcp-vegalite-server,MCP
+CVE-2026-25650,2026-02-06,7.5,CWE-200,smn2gnt:MCP-Salesforce,MCP+Model Context Protocol
+CVE-2026-2130,2026-02-08,6.3,CWE-74/CWE-77/CWE-77,BurtTheCoder:mcp-maigret,MCP
+CVE-2026-25904,2026-02-09,5.8,CWE-918,undefined:undefined,MCP
+CVE-2026-25905,2026-02-09,5.8,CWE-653,undefined:undefined,MCP
+CVE-2026-26029,2026-02-11,7.5,CWE-78,akutishevsky:sf-mcp-server,MCP
+CVE-2026-1721,2026-02-13,6.2,CWE-79,undefined:undefined,MCP
+CVE-2026-27203,2026-02-21,8.3,CWE-15/CWE-74,YosefHayim:ebay-mcp,MCP
+CVE-2026-27735,2026-02-26,6.5,CWE-22,modelcontextprotocol:servers,MCP+Model Context Protocol
+CVE-2026-27896,2026-02-26,7.5,CWE-178/CWE-436/CWE-178,modelcontextprotocol:go-sdk,MCP
+CVE-2026-28361,2026-03-02,6.3,CWE-639,nocodb:nocodb,MCP
+CVE-2026-29783,2026-03-06,7.8,CWE-78,github:copilot-cli,MCP
+CVE-2026-29791,2026-03-06,4.9,CWE-20,agentgateway:agentgateway,MCP
+CVE-2026-29787,2026-03-07,5.3,CWE-200,doobidoo:mcp-memory-service,MCP
+CVE-2026-30856,2026-03-07,5.9,CWE-706,Tencent:WeKnora,MCP
+CVE-2026-30861,2026-03-07,9.9,CWE-78,Tencent:WeKnora,MCP
+CVE-2026-26118,2026-03-10,8.8,CWE-918,Microsoft:Azure MCP Server Tools 1.0.0 (npm),MCP
+CVE-2026-27825,2026-03-10,9.0,CWE-22/CWE-73,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-27826,2026-03-10,8.2,CWE-918,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-32111,2026-03-11,5.3,CWE-918,homeassistant-ai:ha-mcp,MCP
+CVE-2026-32112,2026-03-11,6.8,CWE-79,homeassistant-ai:ha-mcp,MCP
+CVE-2026-31841,2026-03-12,6.5,CWE-433,hyperterse:hyperterse,MCP
+CVE-2026-32247,2026-03-12,8.1,CWE-943,getzep:graphiti,MCP
+CVE-2026-31944,2026-03-13,7.6,CWE-306,danny-avila:LibreChat,MCP
+CVE-2025-69196,2026-03-16,6.5,CWE-863/CWE-1220,jlowin:fastmcp,MCP
+CVE-2026-4198,2026-03-16,5.3,CWE-74/CWE-77,hypermodel-labs:mcp-server-auto-commit,MCP
+CVE-2026-4270,2026-03-16,5.5,CWE-424,AWS:AWS API MCP Server,MCP
+CVE-2026-32632,2026-03-18,5.9,CWE-346,nicolargo:glances,MCP
+CVE-2026-33010,2026-03-20,8.1,CWE-942,doobidoo:mcp-memory-service,MCP
+CVE-2026-33060,2026-03-20,5.3,CWE-918,ondata:ckan-mcp-server,MCP
+CVE-2026-23882,2026-03-23,7.2,CWE-78,blinkospace:blinko,MCP
+CVE-2026-4593,2026-03-23,6.3,CWE-89/CWE-564,erupts:erupt,MCP
+CVE-2026-33252,2026-03-24,7.1,CWE-352,modelcontextprotocol:go-sdk,MCP
+CVE-2026-31945,2026-03-27,7.7,CWE-918,danny-avila:LibreChat,MCP
+CVE-2026-31951,2026-03-27,6.8,CWE-200,danny-avila:LibreChat,MCP
+CVE-2026-33946,2026-03-27,5.9,CWE-384/CWE-639/CWE-384,modelcontextprotocol:ruby-sdk,MCP+Model Context Protocol
+CVE-2026-33980,2026-03-27,8.3,CWE-943,pab1it0:adx-mcp-server,MCP+Model Context Protocol
+CVE-2026-33989,2026-03-27,8.1,CWE-22/CWE-73,mobile-next:mobile-mcp,MCP
+CVE-2026-5007,2026-03-28,5.3,CWE-77/CWE-78,kazuph:mcp-docs-rag,MCP
+CVE-2026-29872,2026-03-30,8.2,CWE-200/CWE-284/CWE-522,n/a:n/a,MCP
+CVE-2026-33032,2026-03-30,9.8,CWE-306,0xJacky:nginx-ui,MCP
+CVE-2026-34163,2026-03-31,7.7,CWE-918,labring:FastGPT,MCP
+CVE-2026-34200,2026-03-31,7.5,CWE-306/CWE-942/CWE-306,nhost:nhost,MCP
+CVE-2026-34237,2026-03-31,6.1,CWE-942,modelcontextprotocol:java-sdk,MCP+Model Context Protocol
+CVE-2026-32871,2026-04-02,10.0,CWE-918/CWE-918,PrefectHQ:fastmcp,MCP
+CVE-2026-34742,2026-04-02,8.1,CWE-1188/CWE-1188,modelcontextprotocol:go-sdk,MCP+Model Context Protocol
+CVE-2026-5322,2026-04-02,7.3,CWE-74/CWE-89,AlejandroArciniegas:mcp-data-vis,MCP
+CVE-2026-5323,2026-04-02,5.3,CWE-918,priyankark:a11y-mcp,MCP
+CVE-2025-64340,2026-04-03,6.7,CWE-78,jlowin:fastmcp,MCP
+CVE-2026-27124,2026-04-03,6.1,CWE-441,jlowin:fastmcp,MCP
+CVE-2026-32211,2026-04-03,9.1,CWE-306,Microsoft:Azure Web Apps,MCP
+CVE-2026-34953,2026-04-03,9.1,CWE-863,MervinPraison:PraisonAI,MCP
+CVE-2026-5470,2026-04-03,6.3,CWE-918,mixelpixx:Google-Research-MCP,Model Context Protocol
+CVE-2026-35394,2026-04-06,8.3,CWE-939,mobile-next:mobile-mcp,MCP
+CVE-2026-5607,2026-04-06,6.3,CWE-918,imprvhub:mcp-browser-agent,MCP
+CVE-2026-5619,2026-04-06,5.3,CWE-77/CWE-78,Braffolk:mcp-summarization-functions,MCP
+CVE-2026-35568,2026-04-07,5.7,CWE-346,modelcontextprotocol:java-sdk,MCP+Model Context Protocol
+CVE-2026-5374,2026-04-07,5.8,CWE-863,runZero:Platform,MCP
+CVE-2026-5379,2026-04-07,3.0,CWE-863,runZero:Platform,MCP
+CVE-2026-5382,2026-04-07,3.0,CWE-863,runZero:Platform,MCP
+CVE-2026-39885,2026-04-08,7.5,CWE-918,agentfront:frontmcp,MCP+Model Context Protocol
+CVE-2026-5802,2026-04-08,7.3,CWE-77/CWE-78,idachev:mcp-javadc,MCP
+CVE-2026-35577,2026-04-09,6.8,CWE-346,apollographql:apollo-mcp-server,MCP+Model Context Protocol
+CVE-2026-39974,2026-04-09,8.5,CWE-918,czlonkowski:n8n-mcp,Model Context Protocol
+CVE-2026-5833,2026-04-09,5.3,CWE-74/CWE-77,awwaiid:mcp-server-taskwarrior,MCP
+CVE-2026-40159,2026-04-10,5.5,CWE-200/CWE-214,MervinPraison:PraisonAI,MCP
+CVE-2026-5058,2026-04-11,9.8,CWE-78,aws-mcp-server:aws-mcp-server,MCP
+CVE-2026-5059,2026-04-11,9.8,CWE-78,aws-mcp-server:aws-mcp-server,MCP
+CVE-2026-6108,2026-04-12,6.3,CWE-77/CWE-78,1Panel-dev:MaxKB,Model Context Protocol
+CVE-2026-6118,2026-04-12,6.3,CWE-74/CWE-77,AstrBotDevs:AstrBot,MCP
+CVE-2026-6130,2026-04-12,7.3,CWE-77/CWE-78,chatboxai:chatbox,Model Context Protocol
+CVE-2026-34476,2026-04-13,7.1,CWE-918,Apache Software Foundation:Apache SkyWalking MCP,MCP
+CVE-2025-61260,2026-04-14,9.8,CWE-94,n/a:n/a,MCP
+CVE-2026-39417,2026-04-14,4.6,CWE-20/CWE-78,1Panel-dev:MaxKB,MCP
+CVE-2026-20205,2026-04-15,7.2,CWE-532,Splunk:Splunk MCP Server,MCP
+CVE-2026-30615,2026-04-15,8.0,CWE-77,n/a:n/a,MCP
+CVE-2026-30616,2026-04-15,7.3,CWE-77,n/a:n/a,MCP
+CVE-2026-30617,2026-04-15,8.6,CWE-77,n/a:n/a,MCP
+CVE-2026-30624,2026-04-15,8.6,CWE-77,n/a:n/a,MCP
+CVE-2026-30625,2026-04-15,9.8,CWE-77,n/a:n/a,MCP
+CVE-2026-39884,2026-04-15,8.3,CWE-88,Flux159:mcp-server-kubernetes,MCP+Model Context Protocol
+CVE-2026-39313,2026-04-16,8.7,CWE-770,QuantGeekDev:mcp-framework,MCP+Model Context Protocol
+CVE-2026-35402,2026-04-17,2.3,CWE-284,neo4j-contrib:mcp-neo4j,MCP
+CVE-2026-6494,2026-04-17,5.3,CWE-117,Red Hat:Red Hat Ansible Automation Platform 2,MCP
+CVE-2025-66335,2026-04-20,5.3,CWE-89,Apache Software Foundation:Apache Doris MCP Server,MCP
+CVE-2026-6599,2026-04-20,6.3,CWE-74/CWE-707,langflow-ai:langflow,Model Context Protocol
+CVE-2026-40576,2026-04-21,9.4,CWE-22,haris-musa:excel-mcp-server,MCP+Model Context Protocol
+CVE-2026-40608,2026-04-21,6.2,CWE-770,DayuanJiang:next-ai-draw-io,MCP
+CVE-2026-40933,2026-04-21,9.9,CWE-78,FlowiseAI:Flowise,MCP
+CVE-2026-7061,2026-04-26,7.3,CWE-77/CWE-78,Toowiredd:chatgpt-mcp-server,MCP
+CVE-2026-7146,2026-04-27,7.3,CWE-918,AlejandroArciniegas:mcp-data-vis,MCP
+CVE-2026-7147,2026-04-27,7.3,CWE-918,JoeCastrom:mcp-chat-studio,MCP
+CVE-2026-7150,2026-04-27,6.3,CWE-918,dh1011:auto-favicon,MCP
+CVE-2026-7158,2026-04-27,7.3,CWE-918,dmitryglhf:mcp-url-downloader,MCP
+CVE-2026-7211,2026-04-28,7.3,CWE-74/CWE-77,dvladimirov:MCP,MCP
+CVE-2026-7215,2026-04-28,7.3,CWE-74/CWE-77,egtai:gmx-vmd-mcp,MCP
+CVE-2026-7221,2026-04-28,7.3,CWE-918,TencentCloudBase:CloudBase-MCP,MCP
+CVE-2026-7272,2026-04-28,7.3,CWE-22,WilliamCloudQi:matlab-mcp-server,MCP
+CVE-2026-7318,2026-04-28,5.9,CWE-22,elie:mcp-project,MCP
+CVE-2026-7384,2026-04-29,7.3,CWE-22,ezequiroga:mcp-bases,MCP
+CVE-2026-7416,2026-04-29,7.3,CWE-77/CWE-78,PolarVista:xcode-mcp-server,MCP
+CVE-2026-7417,2026-04-29,7.3,CWE-918,Algovate:xhs-mcp,MCP
+CVE-2026-7443,2026-04-29,7.3,CWE-77/CWE-78,BurtTheCoder:mcp-dnstwist,MCP
+CVE-2026-7445,2026-04-30,6.3,CWE-22,ZachHandley:ZMCPTools,MCP
+CVE-2026-7446,2026-04-30,7.3,CWE-77/CWE-78,VetCoders:mcp-server-semgrep,MCP
+CVE-2026-7591,2026-05-01,6.3,CWE-74/CWE-89,TimBroddin:astro-mcp-server,MCP
+CVE-2026-7593,2026-05-01,7.3,CWE-77/CWE-78,Sunwood-ai-labs:command-executor-mcp-server,MCP
+CVE-2026-7594,2026-05-01,7.3,CWE-22,Flux159:mcp-game-asset-gen,MCP
+CVE-2026-7599,2026-05-01,6.3,CWE-22,Dayoooun:hwpx-mcp,MCP
+CVE-2026-7600,2026-05-02,6.3,CWE-77/CWE-78,ArtMin96:yii2-mcp-server,MCP
+CVE-2026-7628,2026-05-02,6.3,CWE-74/CWE-77,crazyrabbitLTC:mcp-code-review-server,MCP
+CVE-2026-7642,2026-05-02,6.3,CWE-77/CWE-78,pskill9:website-downloader,MCP
+CVE-2026-7645,2026-05-02,6.5,CWE-22,ruvnet:sublinear-time-solver,MCP
+CVE-2026-7653,2026-05-02,6.3,CWE-77/CWE-78,r-huijts:mcp-server-rijksmuseum,MCP
+CVE-2026-42230,2026-05-04,6.1,CWE-601,n8n-io:n8n,MCP
+CVE-2026-42235,2026-05-04,9.6,CWE-79/CWE-87,n8n-io:n8n,MCP
+CVE-2026-42236,2026-05-04,7.5,CWE-770,n8n-io:n8n,MCP
+CVE-2026-7715,2026-05-04,6.3,CWE-22,ravenwits:mcp-server-arangodb,MCP
+CVE-2026-7728,2026-05-04,6.3,CWE-22,ryanjoachim:mcp-rtfm,MCP
+CVE-2026-7729,2026-05-04,6.3,CWE-918,pixelsock:directus-mcp,MCP
+CVE-2026-7730,2026-05-04,6.3,CWE-77/CWE-78,privsim:mcp-test-runner,MCP
+CVE-2026-7738,2026-05-04,6.3,CWE-22,puchunjie:doc-tools-mcp,MCP
+CVE-2026-35228,2026-05-05,8.7,CWE-89,Oracle Corporation:Oracle MCP Server Helper Tool product of Oracle Open Source Projects,MCP
+CVE-2026-7788,2026-05-05,7.3,CWE-22,Axle-Bucamp:MCP-Docusaurus,MCP
+CVE-2026-7811,2026-05-05,7.3,CWE-22,54yyyu:code-mcp,MCP
+CVE-2026-7812,2026-05-05,7.3,CWE-74/CWE-77,54yyyu:code-mcp,MCP
+CVE-2026-44118,2026-05-06,7.8,CWE-290,OpenClaw:OpenClaw,MCP
+CVE-2026-42449,2026-05-07,8.5,CWE-918,czlonkowski:n8n-mcp,MCP
+CVE-2026-41495,2026-05-08,5.3,CWE-532,czlonkowski:n8n-mcp,MCP
+CVE-2026-41497,2026-05-08,9.8,CWE-77/CWE-78,MervinPraison:PraisonAI,MCP
+CVE-2026-42271,2026-05-08,8.8,CWE-77/CWE-78/CWE-78,BerriAI:litellm,MCP
+CVE-2026-42282,2026-05-08,4.3,CWE-532,czlonkowski:n8n-mcp,MCP
+CVE-2026-44284,2026-05-08,6.3,CWE-918,labring:FastGPT,MCP
+CVE-2026-44336,2026-05-08,9.6,CWE-20/CWE-22/CWE-94/CWE-829/CWE-913,MervinPraison:PraisonAI,MCP
+CVE-2026-44694,2026-05-08,9.1,CWE-367/CWE-918,czlonkowski:n8n-mcp,MCP
+CVE-2026-30635,2026-05-11,8.1,CWE-78,n/a:n/a,MCP
+CVE-2026-42856,2026-05-11,8.7,CWE-306,Jovancoding:Network-AI,MCP
+CVE-2026-43901,2026-05-11,6.8,CWE-22,bx33661:Wireshark-MCP,MCP
+CVE-2026-43995,2026-05-11,9.8,CWE-918,FlowiseAI:Flowise,MCP
+CVE-2026-44995,2026-05-11,7.3,CWE-829,OpenClaw:OpenClaw,MCP
+CVE-2026-44998,2026-05-11,5.4,CWE-863,OpenClaw:OpenClaw,MCP
+CVE-2026-45001,2026-05-11,7.1,CWE-862,OpenClaw:OpenClaw,MCP
+CVE-2025-65719,2026-05-12,9.8,CWE-94,n/a:n/a,MCP
+CVE-2026-42260,2026-05-12,8.2,CWE-918,Aas-ee:open-webSearch,MCP
+CVE-2026-43989,2026-05-12,8.5,CWE-20/CWE-22/CWE-59/CWE-73,Dragonmonk111:junoclaw,MCP
+CVE-2026-43992,2026-05-12,9.8,CWE-200/CWE-312/CWE-522/CWE-532,Dragonmonk111:junoclaw,MCP
+CVE-2026-5029,2026-05-12,8.7,CWE-306,Code Runner MCP Server:Code Runner MCP Server,MCP
+CVE-2026-42559,2026-05-14,8.8,CWE-346/CWE-350,modelcontextprotocol:rust-sdk,MCP+Model Context Protocol
+CVE-2026-44427,2026-05-14,0.0,CWE-601,modelcontextprotocol:registry,MCP
+CVE-2026-44428,2026-05-14,4.7,CWE-918,modelcontextprotocol:registry,MCP
+CVE-2026-44429,2026-05-14,5.4,CWE-79/CWE-116,modelcontextprotocol:registry,MCP
+CVE-2026-44430,2026-05-14,4.0,CWE-918,modelcontextprotocol:registry,MCP
+CVE-2026-45781,2026-05-14,3.5,CWE-636,modelcontextprotocol:registry,MCP
+CVE-2026-44717,2026-05-15,9.8,CWE-94,611711Dark:mcp_calculate_server,MCP
+CVE-2026-8719,2026-05-17,8.8,CWE-269,"tigroumeow:AI Engine – The Chatbot, AI Framework & MCP for WordPress",MCP
+CVE-2026-9467,2026-05-25,4.3,CWE-22,debugmcp:mcp-debugger,MCP
+CVE-2026-44450,2026-05-26,9.9,CWE-88,prolix-oc:Lumiverse,MCP
+CVE-2026-44895,2026-05-26,9.2,CWE-306/CWE-942,yoda-digital:mcp-gitlab-server,MCP
+CVE-2026-44830,2026-05-27,8.7,CWE-306,Dataojitori:nocturne_memory,MCP
+CVE-2026-9739,2026-05-27,9.4,CWE-942,Google:MCP Toolbox for Databases,MCP
+CVE-2026-35674,2026-05-29,8.8,CWE-863,OpenClaw:OpenClaw,MCP
+CVE-2026-45555,2026-05-29,7.8,CWE-94,MarcelRoozekrans:roslyn-codelens-mcp,MCP
+CVE-2026-45582,2026-05-29,6.5,CWE-201,czlonkowski:n8n-mcp,MCP
+CVE-2026-45609,2026-05-29,7.2,CWE-918,spring-ai-community:mcp-security,MCP+Model Context Protocol
+CVE-2026-45707,2026-05-29,8.1,CWE-284,czlonkowski:n8n-mcp,MCP
+CVE-2026-10277,2026-06-01,6.3,CWE-266/CWE-284,j3k0:mcp-google-workspace,MCP
+CVE-2026-10280,2026-06-01,7.3,CWE-918,horizon921:mcpilot,MCP
+CVE-2026-32625,2026-06-02,9.6,CWE-200,danny-avila:LibreChat,MCP+Model Context Protocol
+CVE-2026-42073,2026-06-02,6.5,CWE-352/CWE-400,Gitlawb:openclaude,MCP
+CVE-2026-44653,2026-06-02,6.5,CWE-201,danny-avila:LibreChat,MCP
+CVE-2026-46519,2026-06-11,8.8,CWE-863,Flux159:mcp-server-kubernetes,MCP+Model Context Protocol
+CVE-2026-47250,2026-06-11,6.1,CWE-88,Flux159:mcp-server-kubernetes,MCP+Model Context Protocol
+CVE-2026-53814,2026-06-11,8.3,CWE-266,OpenClaw:OpenClaw,MCP
+CVE-2026-53818,2026-06-11,6.6,CWE-862,OpenClaw:OpenClaw,MCP
+CVE-2026-50287,2026-06-12,8.7,CWE-306,agenticmail:agenticmail,MCP
+CVE-2026-53820,2026-06-12,6.6,CWE-862,OpenClaw:OpenClaw,MCP
+CVE-2026-11624,2026-06-13,9.4,CWE-346,Google:MCP Toolbox for Databases,Model Context Protocol
+CVE-2026-40775,2026-06-15,7.3,CWE-862,Royal Plugins:Royal MCP,MCP
+CVE-2026-53840,2026-06-16,7.1,CWE-522,OpenClaw:OpenClaw,MCP
+CVE-2026-48814,2026-06-17,9.1,CWE-306,Jovancoding:Network-AI,MCP
+CVE-2026-48989,2026-06-17,8.9,CWE-306,CursorTouch:Windows-MCP,MCP
+CVE-2026-11719,2026-06-18,8.1,CWE-862,Google:MCP Toolbox for Databases (googleapis/mcp-toolbox),MCP
+CVE-2026-49257,2026-06-18,10.0,CWE-306,startreedata:mcp-pinot,MCP+Model Context Protocol
+CVE-2026-48774,2026-06-19,7.5,CWE-20,sysown:proxysql,MCP
+CVE-2026-48787,2026-06-19,7.4,CWE-78,flipped-aurora:gin-vue-admin,MCP
+CVE-2026-49291,2026-06-19,8.1,CWE-862,doobidoo:mcp-memory-service,MCP
+CVE-2026-49357,2026-06-19,8.8,CWE-306/CWE-862,dtwang:line-desktop-mcp,MCP
+CVE-2026-12773,2026-06-21,7.3,CWE-287/CWE-303,BerriAI:litellm,MCP
+CVE-2026-12774,2026-06-21,6.3,CWE-918,BerriAI:litellm,MCP
+CVE-2026-12798,2026-06-21,6.3,CWE-918,BerriAI:litellm,MCP
+CVE-2025-66336,2026-06-22,8.1,CWE-89,Apache Software Foundation:Apache Doris MCP Server,MCP
+CVE-2026-10789,2026-06-22,9.6,CWE-94,Autodesk:Fusion,MCP
+CVE-2026-7664,2026-06-22,9.8,CWE-287,IBM:Langflow OSS,MCP
+CVE-2026-12112,2026-06-23,7.8,CWE-287/CWE-287,Red Hat:Red Hat Satellite 6.18,MCP
+CVE-2026-46549,2026-06-23,2.0,CWE-863,nocodb:nocodb,MCP
+CVE-2026-47388,2026-06-23,2.3,CWE-639,nocodb:nocodb,MCP
+CVE-2026-54309,2026-06-23,10.0,CWE-306,n8n-io:n8n,MCP
+CVE-2026-56274,2026-06-23,9.9,CWE-78,Flowise:Flowise,MCP
+CVE-2026-53766,2026-06-24,6.1,CWE-22/CWE-59,ChromeDevTools:chrome-devtools-mcp,MCP
+CVE-2026-57300,2026-06-24,4.3,CWE-862,Jenkins Project:Jenkins MCP Server Plugin,MCP
+CVE-2025-71336,2026-06-25,9.8,CWE-78,Flowise:Flowise,MCP
+CVE-2026-54030,2026-06-25,8.0,CWE-346,danny-avila:LibreChat,MCP
+CVE-2026-54842,2026-06-25,8.1,CWE-862,Royal Plugins:Royal MCP,MCP
+CVE-2026-4339,2026-06-26,6.5,CWE-918,Mattermost:Mattermost,MCP
+CVE-2026-48529,2026-06-26,6.0,CWE-284,github:github-mcp-server,MCP
+CVE-2026-57922,2026-06-26,3.1,CWE-862,JetBrains:YouTrack,MCP
+CVE-2026-13489,2026-06-28,3.1,CWE-662,78:xiaozhi-esp32,MCP
+CVE-2026-58057,2026-06-28,5.0,CWE-178,Flowise:Flowise,MCP
+CVE-2026-13524,2026-06-29,5.6,CWE-266/CWE-285,CherryHQ:cherry-studio,MCP
+CVE-2026-58168,2026-06-30,8.8,CWE-862,HKUDS:DeepTutor,MCP
+CVE-2026-58171,2026-06-30,4.2,CWE-22,HKUDS:Vibe-Trading,MCP
+CVE-2026-58446,2026-06-30,6.5,CWE-306,presenton:presenton,MCP
+CVE-2026-7663,2026-06-30,9.1,CWE-285/CWE-863,IBM:Langflow OSS,MCP
+CVE-2026-10750,2026-07-01,8.1,,Unknown:Royal MCP,MCP
+CVE-2026-53344,2026-07-01,5.5,CWE-908,Linux:Linux,MCP
+CVE-2026-52830,2026-07-02,9.4,CWE-22/CWE-287,leshchenko1979:fast-mcp-telegram,MCP
+CVE-2026-13341,2026-07-03,7.4,CWE-20,KongHQ:mcp-konnect,Model Context Protocol
+CVE-2026-14748,2026-07-05,6.3,CWE-918,AIAnytime:Awesome-MCP-Server,MCP
+CVE-2026-14471,2026-07-06,8.1,CWE-89,AWS:MCP Gateway & Registry,MCP
+CVE-2026-49471,2026-07-07,8.3,CWE-306/CWE-352,oraios:serena,MCP
+CVE-2026-59723,2026-07-08,8.8,CWE-346,cline:cline,MCP
+CVE-2026-59822,2026-07-08,8.2,CWE-287/CWE-306,BerriAI:litellm,MCP
+CVE-2026-15138,2026-07-09,6.3,CWE-22,tumf:mcp-text-editor,MCP
+CVE-2026-15189,2026-07-09,6.3,CWE-918,aerostackdev:aerostack-mcp,MCP
+CVE-2026-55604,2026-07-09,8.6,CWE-639,arikusi:deepseek-mcp-server,MCP
+CVE-2026-55605,2026-07-09,5.3,CWE-306,arikusi:deepseek-mcp-server,MCP
+CVE-2026-59207,2026-07-09,6.5,CWE-693,n8n-io:n8n,MCP
+CVE-2026-59726,2026-07-09,10.0,CWE-78/CWE-306/CWE-942,ruvnet:ruflo,MCP
+CVE-2026-54149,2026-07-10,8.8,CWE-78,1Panel-dev:MaxKB,MCP
+CVE-2026-61459,2026-07-10,9.8,CWE-88,Flux159:mcp-server-kubernetes,MCP
+CVE-2026-15501,2026-07-12,6.3,CWE-918,AstrBotDevs:AstrBot,MCP
+CVE-2026-58500,2026-07-13,8.2,CWE-79,appium:appium-mcp,MCP
+CVE-2026-61462,2026-07-13,8.6,CWE-73,zereight:mcp-gitlab,MCP
+CVE-2026-62195,2026-07-13,8.3,CWE-732,OpenClaw:OpenClaw,MCP
+CVE-2026-15643,2026-07-14,7.3,CWE-918,AWS:awslabs.healthlake-mcp-server,MCP+Model Context Protocol
+CVE-2026-15749,2026-07-14,5.3,CWE-22,mastergo-design:mastergo-magic-mcp,MCP
+CVE-2026-15750,2026-07-14,6.3,CWE-918,mastergo-design:mastergo-magic-mcp,MCP
+CVE-2026-15751,2026-07-14,5.3,CWE-22,mastergo-design:mastergo-magic-mcp,MCP
+CVE-2026-15583,2026-07-15,8.6,CWE-610,Grafana:Grafana MCP Server,MCP
+CVE-2026-30618,2026-07-15,9.8,CWE-94,n/a:n/a,MCP
+CVE-2026-30623,2026-07-15,9.8,CWE-77,n/a:n/a,MCP
+CVE-2026-45805,2026-07-15,8.8,CWE-749,penpot:penpot,MCP
+CVE-2026-46339,2026-07-15,10.0,CWE-78/CWE-306,decolua:9router,MCP
+CVE-2026-49353,2026-07-15,7.5,CWE-290,decolua:9router,MCP
+CVE-2026-49988,2026-07-15,5.5,CWE-200,yamadashy:repomix,MCP
+CVE-2026-52869,2026-07-15,7.1,CWE-639,modelcontextprotocol:python-sdk,MCP+Model Context Protocol
+CVE-2026-52870,2026-07-15,7.6,CWE-862,modelcontextprotocol:python-sdk,MCP+Model Context Protocol
+CVE-2026-53512,2026-07-15,9.1,CWE-287/CWE-306/CWE-345/CWE-863,better-auth:better-auth,MCP
+CVE-2026-53518,2026-07-15,8.1,CWE-362/CWE-367,better-auth:better-auth,MCP
+CVE-2026-54052,2026-07-15,9.9,CWE-639/CWE-862,czlonkowski:n8n-mcp,MCP
+CVE-2026-55608,2026-07-15,4.2,CWE-200/CWE-863,czlonkowski:n8n-mcp,MCP
+CVE-2026-59950,2026-07-15,8.1,CWE-346/CWE-1385,modelcontextprotocol:python-sdk,MCP+Model Context Protocol
+CVE-2026-61427,2026-07-15,7.3,CWE-20,MervinPraison:PraisonAI,MCP
+CVE-2026-62312,2026-07-15,8.8,CWE-78,decolua:9router,MCP
+CVE-2026-44968,2026-07-16,6.3,CWE-88,dbt-labs:dbt-mcp,MCP+Model Context Protocol
+CVE-2026-44969,2026-07-16,2.5,CWE-532,dbt-labs:dbt-mcp,Model Context Protocol
+CVE-2026-44970,2026-07-16,3.1,CWE-201,dbt-labs:dbt-mcp,MCP+Model Context Protocol
+CVE-2026-46341,2026-07-16,6.1,CWE-20/CWE-183,apify:apify-mcp-server,MCP
+CVE-2026-46512,2026-07-16,9.9,CWE-94,mwtcmi:frogman,MCP
+CVE-2026-46513,2026-07-16,7.4,CWE-256,mwtcmi:frogman,MCP
+CVE-2026-46514,2026-07-16,6.5,CWE-532,mwtcmi:frogman,MCP
+CVE-2026-46515,2026-07-16,9.3,CWE-862,mwtcmi:frogman,MCP
+CVE-2026-47751,2026-07-16,5.3,CWE-78/CWE-200,anthropics:claude-code-action,MCP
+CVE-2026-15415,2026-07-17,5.5,CWE-23,AWS:aws-healthomics-mcp-server,MCP
+CVE-2026-57860,2026-07-17,7.8,CWE-829,tailcallhq:forgecode,MCP
+CVE-2026-58195,2026-07-17,8.8,CWE-78,ruvnet:agentic-flow,MCP
+CVE-2026-62208,2026-07-17,6.5,CWE-522,OpenClaw:OpenClaw,MCP
+CVE-2026-7755,2026-07-17,8.8,CWE-20,IBM:Langflow OSS,MCP
+CVE-2026-9135,2026-07-17,9.9,CWE-94,IBM:Langflow OSS,MCP
+CVE-2026-9810,2026-07-17,9.8,CWE-269,Unknown:AI Copilot,MCP
+CVE-2026-16133,2026-07-18,5.0,CWE-74/CWE-77,LiuMengxuan04:MiniCode,MCP
+CVE-2026-46555,2026-07-20,7.7,CWE-22/CWE-306/CWE-346,verygoodplugins:whatsapp-mcp,MCP+Model Context Protocol
+CVE-2026-46701,2026-07-20,7.6,CWE-346,Jovancoding:Network-AI,MCP
+CVE-2026-55544,2026-07-20,7.6,CWE-284/CWE-639/CWE-862,pdovhomilja:nextcrm-app,MCP
+CVE-2026-55550,2026-07-20,7.1,CWE-269/CWE-284/CWE-862,pdovhomilja:nextcrm-app,MCP
+CVE-2026-57495,2026-07-20,8.2,CWE-306,agenticmail:@agenticmail/core,MCP
+CVE-2026-15829,2026-07-21,8.1,CWE-89/CWE-863,Google:MCP Toolbox for Databases (googleapis/mcp-toolbox),MCP
+CVE-2026-47394,2026-07-21,8.7,CWE-22/CWE-200/CWE-862,MervinPraison:PraisonAI,MCP
+CVE-2026-47708,2026-07-21,9.3,CWE-77,SepineTam:stata-mcp,MCP
+CVE-2026-50758,2026-07-21,8.1,CWE-79,n/a:n/a,MCP
+CVE-2026-65056,2026-07-21,8.2,CWE-918,mzxrai:mcp-webresearch,MCP+Model Context Protocol
+CVE-2026-44192,2026-07-22,6.6,CWE-22,Red Hat:Red Hat Ansible Automation Platform 2,Model Context Protocol
+CVE-2026-65594,2026-07-22,6.5,CWE-863,n8n-io:n8n,MCP
+CVE-2026-15015,2026-07-23,9.8,CWE-862,cascadiawebservices:MountDev AI MCP Connector for WordPress,MCP
+CVE-2026-16584,2026-07-23,7.0,CWE-455,AWS:aws-api-mcp-server,MCP
+CVE-2026-47769,2026-07-23,5.3,CWE-306,Work90210:APIFold,MCP
+CVE-2026-63732,2026-07-23,9.9,CWE-78,decolua:9router,MCP
+CVE-2026-66005,2026-07-24,6.3,CWE-183/CWE-942,janhq:jan,MCP
+CVE-2026-66012,2026-07-25,10.0,CWE-862,siyuan-note:siyuan,MCP
+CVE-2026-17433,2026-07-26,5.3,CWE-266/CWE-285,nanocoai:NanoClaw,MCP
+CVE-2026-16496,2026-07-28,8.9,CWE-384,HashiCorp:Tooling,MCP
+CVE-2026-47427,2026-07-28,7.5,CWE-476,github:github-mcp-server,MCP
+CVE-2026-9680,2026-07-28,5.8,CWE-1188,Alibaba:Alibaba Cloud RDS OpenAPI MCP Server,MCP
+CVE-2026-63118,2026-07-29,6.9,CWE-346/CWE-350,modelcontextprotocol:ruby-sdk,MCP+Model Context Protocol
+CVE-2026-63119,2026-07-29,6.2,CWE-400/CWE-770,modelcontextprotocol:ruby-sdk,MCP+Model Context Protocol
+CVE-2026-67430,2026-07-29,5.3,CWE-401/CWE-770,modelcontextprotocol:ruby-sdk,MCP+Model Context Protocol
+CVE-2026-67431,2026-07-29,8.3,CWE-284,modelcontextprotocol:ruby-sdk,MCP+Model Context Protocol
+CVE-2026-67432,2026-07-29,7.5,CWE-770,modelcontextprotocol:ruby-sdk,MCP+Model Context Protocol
+CVE-2026-12940,2026-07-30,9.8,CWE-78,IBM:Langflow OSS,MCP
+CVE-2026-14537,2026-07-31,9.8,CWE-863,Google:mcp-toolbox,MCP
+CVE-2026-14538,2026-07-31,7.7,CWE-285/CWE-863,Google:mcp-toolbox,MCP
+CVE-2026-14539,2026-07-31,7.5,CWE-770,Google:mcp-toolbox,MCP
+CVE-2026-14540,2026-07-31,6.1,CWE-918,Google:mcp-toolbox,MCP
+CVE-2026-14541,2026-07-31,7.5,CWE-287,Google:mcp-toolbox,MCP
+CVE-2026-54785,2026-07-31,6.2,CWE-22/CWE-200,eLyiN:gemini-bridge,MCP
+CVE-2026-15988,2026-08-01,8.8,CWE-352,"tigroumeow:AI Engine – The Chatbot, AI Framework & MCP for WordPress",MCP
+CVE-2026-67333,2026-08-01,7.2,CWE-79,better-auth:better-auth,MCP
+CVE-2026-67336,2026-08-01,8.7,CWE-327,better-auth:better-auth,MCP
+CVE-2026-67357,2026-08-02,7.5,CWE-200,ArcadeData:arcadedb,MCP
+CVE-2026-68578,2026-08-02,7.5,CWE-306,ArcadeData:arcadedb,MCP
+CVE-2026-18655,2026-08-03,6.5,CWE-923,AWS:amazon-mq-mcp-server,MCP
+CVE-2026-66065,2026-08-03,8.4,CWE-15/CWE-94,Q00:ouroboros,MCP
+CVE-2026-69257,2026-08-04,8.6,CWE-918/CWE-1389,FlowiseAI:Flowise,MCP
+CVE-2026-69263,2026-08-04,9.8,CWE-184,FlowiseAI:Flowise,MCP
+CVE-2026-17623,2026-08-05,8.8,CWE-78,IBM:Langflow OSS,MCP
+CVE-2026-17626,2026-08-05,8.8,CWE-266,IBM:Langflow OSS,MCP
+CVE-2026-18954,2026-08-05,5.5,CWE-863,AWS:documentdb-mcp-server,MCP
+CVE-2026-7646,2026-08-05,6.5,CWE-22,IBM:Langflow OSS,MCP
+CVE-2026-8446,2026-08-05,7.5,CWE-306,IBM:Langflow OSS,MCP+Model Context Protocol
+CVE-2026-9077,2026-08-05,8.5,CWE-807,IBM:Langflow OSS,MCP
+CVE-2026-19039,2026-08-06,5.3,CWE-74/CWE-77,Kino-Kafkaesque:ssh-mcp-server,MCP
+CVE-2026-19040,2026-08-06,6.3,CWE-918,MissionSquad:mcp-api,MCP
+CVE-2026-19041,2026-08-06,6.3,CWE-74/CWE-77,MissionSquad:mcp-api,MCP
+CVE-2026-67531,2026-08-06,9.3,CWE-94,agentfront:frontmcp,Model Context Protocol
+CVE-2026-19244,2026-08-07,4.7,CWE-266/CWE-284,HKUDS:nanobot,MCP
+CVE-2026-48039,2026-08-07,9.1,CWE-287,pipeboard-co:meta-ads-mcp,MCP+Model Context Protocol
+CVE-2026-19263,2026-08-08,7.3,CWE-74/CWE-77,INQUIRELAB:mcp-bridge-api,MCP
+CVE-2026-19270,2026-08-08,5.3,CWE-22,Hulupeep:mcp-ui-probe,MCP
+CVE-2026-19279,2026-08-08,5.3,CWE-74/CWE-77,MIMICLab:mcp-pdf-vision,MCP
+CVE-2026-19329,2026-08-09,5.3,CWE-74/CWE-77,andreahaku:codex_mcp,MCP
+CVE-2026-19337,2026-08-09,5.3,CWE-918,adenot:mcp-google-search,MCP
+CVE-2026-19516,2026-08-11,9.1,CWE-918,Grafana:Grafana MCP Server,MCP
+CVE-2026-72768,2026-08-11,8.3,CWE-918,n8n-io:n8n,MCP
+CVE-2026-73296,2026-08-12,9.4,CWE-306/CWE-862,microsoft:UFO,MCP
+CVE-2026-73498,2026-08-12,7.7,CWE-22,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-19751,2026-08-13,6.3,CWE-918,EnzoVezzaro:mcp-dominican-layer,MCP
+CVE-2026-19752,2026-08-13,6.3,CWE-918,EnzoVezzaro:mcp-dominican-layer,MCP
+CVE-2026-19753,2026-08-13,7.3,CWE-918,Model Context Protocol:mcp-rdf-explorer,MCP+Model Context Protocol
+CVE-2026-49856,2026-08-13,4.3,CWE-918,vmoranv:jshookmcp,MCP
+CVE-2026-49857,2026-08-13,7.4,CWE-918,ymw0407:auth-fetch-mcp,MCP
+CVE-2026-73037,2026-08-13,6.1,CWE-79,DayuanJiang:next-ai-draw-io,MCP
+CVE-2026-73601,2026-08-13,8.8,CWE-95,FlowiseAI:Flowise,MCP
+CVE-2026-49986,2026-08-14,7.1,CWE-829,cdeust:Cortex,MCP
+CVE-2026-50027,2026-08-14,9.8,CWE-306,doobidoo:mcp-memory-service,MCP
+CVE-2026-73844,2026-08-14,3.7,CWE-209/CWE-210,ondata:ckan-mcp-server,MCP
+CVE-2026-73845,2026-08-14,5.3,CWE-20/CWE-625/CWE-918,ondata:ckan-mcp-server,MCP
+CVE-2026-73846,2026-08-14,6.5,CWE-345/CWE-436,ondata:ckan-mcp-server,MCP
+CVE-2026-19984,2026-08-17,6.3,CWE-918,jkawamoto:mcp-florence2,MCP
+CVE-2026-71424,2026-08-17,9.6,CWE-200/CWE-863,onyx-dot-app:onyx,MCP
+CVE-2026-74798,2026-08-17,8.7,CWE-22,siyuan-note:siyuan,MCP
+CVE-2026-75060,2026-08-17,8.4,CWE-306,JetBrains:PyCharm,MCP
+CVE-2026-34884,2026-08-18,9.8,CWE-918,Apache Software Foundation:Apache SkyWalking MCP,MCP
+CVE-2026-50143,2026-08-18,8.1,CWE-918,apify:apify-mcp-server,MCP
+CVE-2026-75130,2026-08-18,9.0,,Uptash:Context7,MCP
+CVE-2026-75845,2026-08-18,6.3,CWE-269,ArcadeData:arcadedb,MCP
+CVE-2026-75857,2026-08-18,7.0,CWE-269,Hmbown:CodeWhale,MCP
+CVE-2026-75858,2026-08-18,7.8,CWE-94,Hmbown:CodeWhale,MCP
+CVE-2026-75149,2026-08-19,8.8,CWE-94,marimo-team:marimo,MCP
+CVE-2026-76404,2026-08-19,9.1,CWE-502,Splunk:Splunk MCP Server app,MCP
+CVE-2026-18482,2026-08-20,9.8,CWE-78,Klarso GmbH:neo-mjs,MCP
+CVE-2026-54449,2026-08-20,8.8,CWE-77,langbot-app:LangBot,MCP
+CVE-2026-72846,2026-08-20,6.4,CWE-918,lightdash:lightdash,MCP
+CVE-2026-77068,2026-08-20,8.8,CWE-22,n8n-io:n8n,MCP
+CVE-2026-77073,2026-08-20,4.3,CWE-639,n8n-io:n8n,MCP
+CVE-2026-53509,2026-08-21,5.7,CWE-918,ondata:ckan-mcp-server,MCP
+CVE-2026-59279,2026-08-21,7.5,CWE-770,Spring:Spring AI,MCP
+CVE-2026-62674,2026-08-21,9.0,CWE-94,omnigent-ai:omnigent,MCP
+CVE-2026-59809,2026-08-22,4.9,CWE-201,siyuan-note:siyuan,MCP
+CVE-2026-60083,2026-08-22,4.9,CWE-863,siyuan-note:siyuan,MCP
+CVE-2026-78430,2026-08-24,5.3,CWE-77/CWE-78,sworddut:mcp-ffmpeg-helper,MCP
+CVE-2026-19801,2026-08-25,4.3,CWE-862,"wpdevteam:BetterLinks – Link Shortener, Link Cloaking, Redirects, Affiliate Link Manager & MCP",MCP
+CVE-2026-53965,2026-08-25,6.9,CWE-400/CWE-770,modelcontextprotocol:php-sdk,MCP+Model Context Protocol
+CVE-2026-55529,2026-08-25,6.9,CWE-306/CWE-346,MervinPraison:PraisonAI,MCP
+CVE-2026-55531,2026-08-25,6.5,CWE-400/CWE-770,MervinPraison:PraisonAI,MCP
+CVE-2026-55532,2026-08-25,7.6,CWE-346/CWE-352,MervinPraison:PraisonAI,MCP
+CVE-2026-55546,2026-08-25,9.8,CWE-94,QWED-AI:qwed-mcp,MCP
+CVE-2026-55557,2026-08-25,8.6,CWE-22,That1Drifter:browse-mcp,MCP
+CVE-2026-55580,2026-08-25,8.6,CWE-78,sonirico:mcp-shell,MCP
+CVE-2026-55581,2026-08-25,8.4,CWE-78/CWE-183/CWE-1188,sonirico:mcp-shell,MCP
+CVE-2026-55582,2026-08-25,8.4,CWE-78,sonirico:mcp-shell,MCP
+CVE-2026-55609,2026-08-25,7.1,CWE-73,ruvnet:sublinear-time-solver,MCP
+CVE-2026-55637,2026-08-25,8.8,CWE-346,GeiserX:genieacs-mcp,MCP
+CVE-2026-55640,2026-08-25,9.1,CWE-306,cbcoutinho:nextcloud-mcp-server,MCP
+CVE-2026-79786,2026-08-25,7.1,CWE-601,coroot:coroot,MCP
+CVE-2026-80347,2026-08-26,7.5,CWE-918,kazuph:mcp-fetch,MCP
+CVE-2026-37006,2026-08-27,9.8,CWE-287,n/a:n/a,Model Context Protocol
+CVE-2026-81091,2026-08-27,8.6,CWE-918,mcp-use:mcp-use,MCP
+CVE-2026-81092,2026-08-27,6.8,CWE-346,mark3labs:mcp-go,MCP
+CVE-2026-81093,2026-08-27,8.6,CWE-918,apify:actors-mcp-server,MCP
+CVE-2026-81094,2026-08-27,9.1,CWE-306,mcp-router:mcp-router,MCP
+CVE-2026-81095,2026-08-27,6.8,CWE-346,timescale:pg-aiguide,MCP
+CVE-2026-81096,2026-08-27,10.0,CWE-94,mims-harvard:ToolUniverse,MCP
+CVE-2026-81098,2026-08-27,9.1,CWE-306,team-telnyx:telnyx-mcp,MCP
+CVE-2026-81099,2026-08-27,6.8,CWE-346,timescale:tiger-slack,MCP
+CVE-2026-81100,2026-08-27,6.8,CWE-346,timescale:tiger-gh-mcp-server,MCP
+CVE-2026-81102,2026-08-27,3.1,CWE-346,dropbox:mcp-server-dash,MCP
+CVE-2026-81486,2026-08-27,5.3,CWE-22,bsmi021:mcp-file-context-server,MCP
+CVE-2026-81735,2026-08-27,10.0,CWE-306,bytedance:UI-TARS-desktop,MCP
+CVE-2026-81835,2026-08-28,5.5,CWE-74/CWE-94,RooCodeInc:Roo-Code,MCP
+CVE-2026-81845,2026-08-28,6.3,CWE-22,arben-adm:mcp-sequential-thinking,MCP
+CVE-2026-82021,2026-08-28,8.3,CWE-494,NousResearch:hermes-agent,MCP
+CVE-2026-82233,2026-08-28,5.7,CWE-22,siyuan-note:siyuan,MCP
+CVE-2026-82456,2026-08-29,10.0,CWE-1327,argoproj-labs:argocd-mcp,MCP
+CVE-2026-79743,2026-08-31,6.9,CWE-22,samanhappy:mcphub,MCP
+CVE-2026-79744,2026-08-31,8.8,CWE-269/CWE-862,samanhappy:mcphub,MCP
+CVE-2026-79745,2026-08-31,7.1,CWE-862,samanhappy:mcphub,MCP
+CVE-2026-79746,2026-08-31,8.1,CWE-863,samanhappy:mcphub,MCP
+CVE-2026-79747,2026-08-31,7.1,CWE-918,samanhappy:mcphub,MCP
+CVE-2026-79748,2026-08-31,9.9,CWE-862,samanhappy:mcphub,MCP
+CVE-2026-79749,2026-08-31,7.6,CWE-918,samanhappy:mcphub,MCP
+CVE-2026-79750,2026-08-31,7.7,CWE-639,samanhappy:mcphub,MCP
+CVE-2026-81315,2026-08-31,7.4,CWE-346,ash-project:ash_ai,MCP
+CVE-2026-19591,2026-09-01,8.8,CWE-150,OpenAI:Codex CLI,MCP
+CVE-2026-81846,2026-09-01,3.5,CWE-639,runZero:Platform,MCP
+CVE-2026-84289,2026-09-01,4.3,CWE-400/CWE-789,NousResearch:hermes-agent,MCP
+CVE-2026-84779,2026-09-03,8.1,CWE-862,"Sheikh Heera:Agentimus – AI SEO, llms.txt &amp; MCP for AI Agents",MCP
+CVE-2026-85166,2026-09-03,6.5,CWE-863,n8n-io:n8n,MCP
+CVE-2026-85306,2026-09-03,6.5,CWE-862,Cascadia Web Services:MountDev AI MCP Connector for WordPress,MCP
+CVE-2026-18486,2026-09-04,8.8,CWE-200,IBM:ContextForge MCP Gateway,MCP
+CVE-2026-18489,2026-09-04,7.4,CWE-488,IBM:ContextForge MCP Gateway - Translate utility,MCP
+CVE-2026-18905,2026-09-04,7.7,CWE-918,IBM:ContextForge MCP Gateway (`mcp-contextforge-gateway`),MCP
+CVE-2026-77822,2026-09-04,8.2,CWE-918,IBM:ContextForge MCP Gateway,MCP
+CVE-2026-85580,2026-09-04,6.5,CWE-22,siyuan-note:siyuan,MCP
+CVE-2026-85620,2026-09-04,8.6,CWE-863,crystaldba:postgres-mcp,MCP
+CVE-2026-85666,2026-09-04,7.5,CWE-918,ogx-ai:ogx,MCP
+CVE-2026-85787,2026-09-04,6.5,CWE-184,Amazon:postgres-mcp-server,MCP
+CVE-2026-9186,2026-09-04,6.5,CWE-284,IBM:Langflow OSS,MCP
+CVE-2026-86122,2026-09-05,5.0,CWE-918,rowboatlabs:rowboat,MCP
+CVE-2026-86439,2026-09-07,8.8,CWE-22,knowns-dev:knowns,MCP
+CVE-2026-53937,2026-09-09,6.2,CWE-400/CWE-770,modelcontextprotocol:io.modelcontextprotocol:kotlin-sdk,MCP+Model Context Protocol
+CVE-2026-87911,2026-09-09,9.6,CWE-78/CWE-184,AWS:AWS Labs postgres MCP Server,MCP
+CVE-2026-78573,2026-09-10,9.8,CWE-1392,IBM:ContextForge MCP Gateway,MCP
+CVE-2026-78575,2026-09-10,8.8,CWE-78,IBM:Langflow OSS,MCP
+CVE-2026-81941,2026-09-10,8.8,CWE-284,IBM:Langflow OSS,MCP
+CVE-2026-85025,2026-09-10,9.8,CWE-863,IBM:Langflow OSS,MCP
+CVE-2026-87913,2026-09-10,5.9,CWE-283/CWE-341,AWS:AWS Security Agent MCP server,MCP
+CVE-2026-88938,2026-09-10,6.5,CWE-22,knowns-dev:knowns,MCP
+CVE-2026-89622,2026-09-11,7.8,,Linux:Linux,MCP
+CVE-2026-12763,2026-09-14,4.2,CWE-306,IBM:Langflow OSS,MCP
+CVE-2026-38924,2026-09-14,2.9,CWE-669,Oraios AI:Serena,MCP
+CVE-2026-53708,2026-09-14,6.6,CWE-350/CWE-367/CWE-918,IBM:mcp-context-forge,MCP
+CVE-2026-55837,2026-09-14,6.8,CWE-200/CWE-306/CWE-346,dbt-labs:dbt-mcp,Model Context Protocol
+CVE-2026-57124,2026-09-14,9.8,CWE-78/CWE-306,MervinPraison:PraisonAI,MCP
+CVE-2026-73496,2026-09-14,7.7,CWE-22/CWE-73,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-73497,2026-09-14,6.5,CWE-918,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-90617,2026-09-14,7.3,CWE-77/CWE-78,GH05TCREW:PentestAgent,MCP
+CVE-2026-90898,2026-09-14,9.8,CWE-284/CWE-306,maximhq:Bifrost,MCP
+CVE-2026-11918,2026-09-15,5.4,CWE-184,IBM:ContextForge MCP Gateway,MCP
+CVE-2026-53710,2026-09-15,10.0,CWE-94/CWE-693,IBM:mcp-context-forge,MCP
+CVE-2026-53957,2026-09-15,7.7,CWE-918,contentful:contentful-mcp-server,MCP+Model Context Protocol
+CVE-2026-54450,2026-09-15,2.9,CWE-918,stacklok:toolhive,Model Context Protocol
+CVE-2026-54547,2026-09-15,7.4,CWE-287,pipeboard-co:meta-ads-mcp,MCP+Model Context Protocol
+CVE-2026-54549,2026-09-15,8.3,CWE-918,pipeboard-co:meta-ads-mcp,MCP+Model Context Protocol
+CVE-2026-54561,2026-09-15,6.2,CWE-22/CWE-209,mkreyman:mcp-memory-keeper,MCP
+CVE-2026-54688,2026-09-15,6.5,CWE-918,ihor-sokoliuk:mcp-searxng,MCP+Model Context Protocol
+CVE-2026-54689,2026-09-15,6.3,CWE-200/CWE-918,ihor-sokoliuk:mcp-searxng,MCP+Model Context Protocol
+CVE-2026-55887,2026-09-15,8.7,CWE-88,docker:mcp-gateway,MCP
+CVE-2026-57134,2026-09-15,8.2,CWE-287/CWE-288/CWE-863,MervinPraison:PraisonAI,MCP
+CVE-2026-57139,2026-09-15,9.8,CWE-306/CWE-862/CWE-1188,MervinPraison:PraisonAI,MCP
+CVE-2026-57441,2026-09-15,8.4,CWE-41/CWE-178,bitbonsai:mcpvault,MCP+Model Context Protocol
+CVE-2026-57442,2026-09-15,6.9,CWE-22/CWE-538,bitbonsai:mcpvault,MCP+Model Context Protocol
+CVE-2026-58196,2026-09-15,4.7,CWE-918,stacklok:toolhive,MCP+Model Context Protocol
+CVE-2026-58201,2026-09-15,8.7,CWE-918,merill:lokka,Model Context Protocol
+CVE-2026-58483,2026-09-15,7.5,CWE-400,ihor-sokoliuk:mcp-searxng,MCP+Model Context Protocol
+CVE-2026-58485,2026-09-15,7.1,CWE-918,ihor-sokoliuk:mcp-searxng,MCP+Model Context Protocol
+CVE-2026-59971,2026-09-15,10.0,CWE-306/CWE-346,designcomputer:mysql_mcp_server,MCP+Model Context Protocol
+CVE-2026-59973,2026-09-15,8.5,CWE-918,agentfront:frontmcp,MCP+Model Context Protocol
+CVE-2026-61559,2026-09-15,9.6,CWE-918,zereight:gitlab-mcp,Model Context Protocol
+CVE-2026-61560,2026-09-15,9.8,CWE-22,zereight:gitlab-mcp,MCP+Model Context Protocol
+CVE-2026-61568,2026-09-15,9.6,CWE-350,zereight:gitlab-mcp,MCP+Model Context Protocol
+CVE-2026-89141,2026-09-15,6.5,CWE-639,"tigroumeow:AI Engine – The Chatbot, AI Framework & MCP for WordPress",MCP
+CVE-2026-91931,2026-09-15,8.5,CWE-78,FlowiseAI:Flowise,MCP
+CVE-2026-91932,2026-09-15,8.5,CWE-20,FlowiseAI:Flowise,MCP
+CVE-2026-91988,2026-09-15,8.1,CWE-319,dep0we:atomic-agents-stack,MCP
+CVE-2026-14916,2026-09-16,7.7,CWE-241,Kong:Kong Enteprise Gateway,MCP
+CVE-2026-63127,2026-09-16,8.2,CWE-345,modelcontextprotocol:rust-sdk,MCP+Model Context Protocol
+CVE-2026-63128,2026-09-16,7.5,CWE-400/CWE-401/CWE-772,modelcontextprotocol:rust-sdk,Model Context Protocol
+CVE-2026-64684,2026-09-16,6.8,CWE-200,modelcontextprotocol:rust-sdk,MCP+Model Context Protocol
+CVE-2026-89852,2026-09-16,,,Linux:Linux,MCP
+CVE-2026-50125,2026-09-17,7.5,CWE-400,StacklokLabs:mkp,MCP+Model Context Protocol
+CVE-2026-50158,2026-09-17,7.7,CWE-73,eat-pray-ai:yutu,MCP
+CVE-2026-54446,2026-09-17,8.1,CWE-306,Labs64:NetLicensing-MCP,MCP
+CVE-2026-54504,2026-09-17,8.8,CWE-306/CWE-668,andrea9293:mcp-documentation-server,MCP
+CVE-2026-54618,2026-09-17,9.4,CWE-306/CWE-522/CWE-601,jimprosser:obsidian-web-mcp,MCP
+CVE-2026-58197,2026-09-18,8.8,CWE-284/CWE-306,stacklok:toolhive,MCP+Model Context Protocol
+CVE-2026-63646,2026-09-18,6.9,CWE-200,1Panel-dev:CordysCRM,MCP
+CVE-2026-77339,2026-09-18,5.1,CWE-306/CWE-346,F1bonacc1:process-compose,MCP
+CVE-2026-93982,2026-09-19,3.3,CWE-532,Openpanel-dev:openpanel,MCP+Model Context Protocol
+CVE-2026-93965,2026-09-20,6.6,CWE-74/CWE-77,aiyiyi121:SxDevOps,MCP
+CVE-2026-94031,2026-09-20,6.3,CWE-74/CWE-77,0-Gaurav-0:nexus-mcp,MCP
+CVE-2026-94037,2026-09-20,4.3,CWE-22,00Kisumi00:mcp-file-analyzer,MCP
+CVE-2026-94044,2026-09-20,7.3,CWE-22,03-lovepreetSingh:MCP,MCP
+CVE-2026-94046,2026-09-20,4.3,CWE-22,0215AndrewFeng:ACE-MCP,MCP
+CVE-2026-55071,2026-09-21,8.4,CWE-94,SepineTam:mcp-for-stata,MCP
+CVE-2026-61612,2026-09-21,5.7,CWE-918,ondata:ckan-mcp-server,MCP
+CVE-2026-61647,2026-09-21,7.1,CWE-22/CWE-73,roomi-fields:notebooklm-mcp,MCP
+CVE-2026-77518,2026-09-21,5.0,CWE-862,1Panel-dev:MaxKB,MCP
+CVE-2026-77519,2026-09-21,5.4,CWE-613,1Panel-dev:MaxKB,MCP
+CVE-2026-77521,2026-09-21,10.0,CWE-78/CWE-250/CWE-749,1Panel-dev:MaxKB,MCP
+CVE-2026-19202,2026-09-22,9.1,CWE-524,Google:mcp-toolbox-sdk-python,MCP
+CVE-2026-77242,2026-09-22,7.5,CWE-367/CWE-918,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77243,2026-09-22,8.8,CWE-862,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77244,2026-09-22,10.0,CWE-287/CWE-303/CWE-862,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77246,2026-09-22,7.4,CWE-22/CWE-200/CWE-441,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77247,2026-09-22,8.3,CWE-73,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77248,2026-09-22,8.6,CWE-22/CWE-306,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77249,2026-09-22,5.3,CWE-918,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77250,2026-09-22,6.1,CWE-312,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77251,2026-09-22,8.3,CWE-1276,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77252,2026-09-22,6.5,CWE-284,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77253,2026-09-22,7.1,CWE-22,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77254,2026-09-22,9.1,CWE-306,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77255,2026-09-22,8.6,CWE-22/CWE-441,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77256,2026-09-22,8.3,CWE-732,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77257,2026-09-22,8.3,CWE-22,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77258,2026-09-22,7.7,CWE-22,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77259,2026-09-22,7.7,CWE-22/CWE-552,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77260,2026-09-22,8.3,CWE-22,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77261,2026-09-22,7.1,CWE-918,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77262,2026-09-22,8.6,CWE-22,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77265,2026-09-22,5.9,CWE-918,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77266,2026-09-22,6.5,CWE-22,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77267,2026-09-22,8.3,CWE-918,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77268,2026-09-22,5.5,CWE-732,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77269,2026-09-22,6.5,CWE-22,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77270,2026-09-22,6.5,CWE-22,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77271,2026-09-22,8.3,CWE-22/CWE-94,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77272,2026-09-22,5.4,CWE-79,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-77274,2026-09-22,8.8,CWE-918,sooperset:mcp-atlassian,MCP+Model Context Protocol
+CVE-2026-89420,2026-09-22,7.1,CWE-1284,ZenHive:mpp,MCP
+CVE-2026-95660,2026-09-22,6.3,CWE-77/CWE-78,Moonshot AI:Kimi Code,MCP
+CVE-2026-18875,2026-09-23,7.3,CWE-74,IBM:Financial Transaction Manager (FTM) for RedHat OpenShift,MCP
+CVE-2026-93529,2026-09-23,6.5,CWE-862,Bilal Naseer:WSP MCP &#8211; AI Agents Connector,MCP
+CVE-2026-51994,2026-09-24,9.1,CWE-918,n/a:n/a,MCP
+CVE-2026-51995,2026-09-24,7.5,CWE-200,n/a:n/a,MCP
+CVE-2026-51996,2026-09-24,,,n/a:n/a,MCP
+CVE-2026-51997,2026-09-24,8.8,CWE-20/CWE-94/CWE-918,n/a:n/a,MCP
+CVE-2026-52001,2026-09-24,,,n/a:n/a,MCP
+CVE-2026-61742,2026-09-24,9.3,CWE-306/CWE-346,bytebase:dbhub,MCP
+CVE-2026-61788,2026-09-24,7.4,CWE-184/CWE-636/CWE-863,bytebase:dbhub,MCP
+CVE-2026-77321,2026-09-24,4.3,CWE-200/CWE-284/CWE-862,mauriceboe:TREK,MCP
+CVE-2026-77825,2026-09-24,4.9,CWE-22,IBM:ContextForge MCP Gateway,MCP
+CVE-2026-91161,2026-09-24,6.4,CWE-863,rmyndharis:OpenWA,MCP
+CVE-2026-92628,2026-09-24,3.1,CWE-362,GitLab:GitLab,MCP
+CVE-2026-92874,2026-09-24,5.4,CWE-863,GitLab:GitLab,MCP
+CVE-2026-97228,2026-09-25,2.7,CWE-943,Rapid7:Platform,MCP

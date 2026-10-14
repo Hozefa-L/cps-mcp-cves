@@ -1,0 +1,31 @@
+records total: 561  (raw keyword hits 564, excluded 3 non-protocol hits)
+by period: Jan-Apr=123, May-Aug=306, 1-25 Sep=132
+1 Jan-28 Aug under this recipe: 419 (3 Sep sweep: 408)
+by query: MCP=452, MCP+Model Context Protocol=92, Model Context Protocol=17
+monthly: 1=16, 2=12, 3=34, 4=61, 5=60, 6=48, 7=91, 8=107, 9=132
+severity: critical=99, high=243, medium=198, low=19, unscored=2
+official modelcontextprotocol:* records: 27  ({'modelcontextprotocol:ruby-sdk': 6, 'modelcontextprotocol:registry': 5, 'modelcontextprotocol:rust-sdk': 4, 'modelcontextprotocol:go-sdk': 3, 'modelcontextprotocol:python-sdk': 3, 'modelcontextprotocol:java-sdk': 2, 'modelcontextprotocol:typescript-sdk': 1, 'modelcontextprotocol:servers': 1, 'modelcontextprotocol:php-sdk': 1, 'modelcontextprotocol:io.modelcontextprotocol:kotlin-sdk': 1})
+official records by month: 2=3, 3=3, 4=2, 5=6, 7=8, 8=1, 9=4
+
+family table (first-listed CWE rule, membership in cwe_families.csv):
+             Jan-Apr  May-Aug  1-25 Sep  Total
+family                                        
+Injection         43       56        13    112
+AuthN/AuthZ       15       90        32    137
+SSRF              20       39        21     80
+Traversal         10       33        28     71
+Origin/CSRF        7       23         0     30
+Info leak          6       15        10     31
+DoS                3        9         5     17
+XSS                3        6         1     10
+Query inj.         4        4         1      9
+Other             12       31        21     64
+
+Sec. 4.2 prose: Jan-Apr injection=43 of 123, SSRF=20, AuthN/AuthZ=15, traversal=10
+            full window: AuthN/AuthZ=137 vs injection=112
+Table 2 T2 row (injection / traversal / SSRF / query inj.): 112 / 71 / 80 / 9
+
+records whose first CWE fell into Other: CWE-20(12), none(4), CWE-184(4), CWE-362(3), CWE-732(3), CWE-829(3), CWE-15(2), CWE-178(2), CWE-350(2), CWE-367(2), CWE-749(2), CWE-117(1), CWE-1276(1), CWE-1284(1), CWE-1327(1), CWE-150(1), CWE-183(1), CWE-241(1), CWE-283(1), CWE-327(1), CWE-433(1), CWE-441(1), CWE-455(1), CWE-488(1), CWE-494(1), CWE-502(1), CWE-524(1), CWE-610(1), CWE-636(1), CWE-653(1), CWE-662(1), CWE-669(1), CWE-693(1), CWE-706(1), CWE-807(1), CWE-939(1)
+
+component split under the stated keyword rule:
+  MCP server=255, host/client/agent platform=215, sdk/framework/gateway=65, unclassifiable=26

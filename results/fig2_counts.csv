@@ -1,0 +1,11 @@
+family,Jan-Apr,May-Aug,1-25 Sep,Total
+Injection,43,56,13,112
+AuthN/AuthZ,15,90,32,137
+SSRF,20,39,21,80
+Traversal,10,33,28,71
+Origin/CSRF,7,23,0,30
+Info leak,6,15,10,31
+DoS,3,9,5,17
+XSS,3,6,1,10
+Query inj.,4,4,1,9
+Other,12,31,21,64

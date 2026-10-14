@@ -1,0 +1,4 @@
+id,reason
+CVE-2026-53344,"Linux kernel pinctrl mcp23s08 driver: 'mcp' is a C struct name (MCP23S08 GPIO expander), not the Model Context Protocol"
+CVE-2026-89622,"Linux kernel driver: 'mcp->rxbuf' is a C struct name, not the Model Context Protocol"
+CVE-2026-89852,"Linux kernel qla2xxx driver: 'mcp->mb[]' is the mailbox-command struct, not the Model Context Protocol"
