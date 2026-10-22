@@ -1,5 +1,7 @@
 # NVD records mentioning the Model Context Protocol, 1 January – 25 September 2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23572880.svg)](https://doi.org/10.5281/zenodo.23572880)
+
 Data and code behind the NVD analysis in Section 4.2 and Figure 2 of *Securing AI Agents in Cyber-Physical Systems: A Survey of Environmental Interactions, Deepfake Threats, and Defenses* (submitted to ACM Computing Surveys). The repository contains:
 
 - the query parameters
@@ -132,7 +134,7 @@ NVD records are updated after publication (for example, CWE and CVSS assignments
 
 ## Archived version
 
-Release `v1.0.0` of this repository is the snapshot the paper cites. It is archived on Zenodo with a version DOI. This GitHub repository is the living mirror, and later commits do not change the archived snapshot.
+Release `v1.0.0` of this repository is the snapshot the paper cites. It is archived on Zenodo as [10.5281/zenodo.23572880](https://doi.org/10.5281/zenodo.23572880); cite this version DOI. The concept DOI [10.5281/zenodo.23572879](https://doi.org/10.5281/zenodo.23572879) always resolves to the latest version. This GitHub repository is the living mirror, and later commits do not change the archived snapshot.
 
 ## Contact
 
