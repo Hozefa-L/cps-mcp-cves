@@ -125,7 +125,14 @@ NVD records are updated after publication (for example, CWE and CVSS assignments
 - This product uses data from the NVD API but is not endorsed or certified by the NVD.
 - Product names come from CVE® records. CVE® is a registered trademark of The MITRE Corporation; CVE records are used under the [CVE Terms of Use](https://www.cve.org/Legal/TermsOfUse).
 
-No license has been chosen yet for the code and derived data in this repository.
+## License
+
+- **Code** (`scripts/`): MIT License, see [`LICENSE`](LICENSE).
+- **Data and results** (`data/`, `results/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The raw NVD responses and CVE.org fields remain subject to the NVD and CVE terms above.
+
+## Archived version
+
+Release `v1.0.0` of this repository is the snapshot the paper cites. It is archived on Zenodo with a version DOI. This GitHub repository is the living mirror, and later commits do not change the archived snapshot.
 
 ## Contact
 

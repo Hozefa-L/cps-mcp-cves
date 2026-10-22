@@ -1,0 +1,24 @@
+{
+  "title": "NVD records mentioning the Model Context Protocol, 1 January - 25 September 2026: data and code",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "description": "<p>Data and code behind the NVD analysis in Section 4.2 and Figure 2 of <em>Securing AI Agents in Cyber-Physical Systems: A Survey of Environmental Interactions, Deepfake Threats, and Defenses</em> (submitted to ACM Computing Surveys). The record holds the query parameters, the archived raw NVD API 2.0 responses (retrieved 26 September 2026), the list of 561 CVE records, the three exclusions with reasons, the CWE-to-family rules, and the scripts that reproduce every count the paper reports.</p><p>The result is a dated, keyword-derived sample, not a census of MCP vulnerabilities; see the README for the method and limitations.</p><p>Code: MIT License. Data and results: CC BY 4.0. NVD and CVE data are used under their own terms (see README).</p>",
+  "creators": [
+    {"name": "Hatami, Mohsen", "affiliation": "Binghamton University"},
+    {"name": "Lakadawala, Hozefa", "affiliation": "Binghamton University"},
+    {"name": "Pham, Van Tuan", "affiliation": "Binghamton University"},
+    {"name": "Imnaishvili, Davit", "affiliation": "Binghamton University"},
+    {"name": "Chen, Yu", "affiliation": "Binghamton University", "orcid": "0000-0003-1880-0586"}
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "Model Context Protocol",
+    "MCP",
+    "AI agent security",
+    "National Vulnerability Database",
+    "CVE",
+    "CWE",
+    "cyber-physical systems"
+  ]
+}
