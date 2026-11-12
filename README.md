@@ -1,6 +1,6 @@
 # NVD records mentioning the Model Context Protocol, 1 January – 25 September 2026
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23572880.svg)](https://doi.org/10.5281/zenodo.23572880)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23572879.svg)](https://doi.org/10.5281/zenodo.23572879)
 
 Data and code behind the NVD analysis in Section 4.2 and Figure 2 of *Securing AI Agents in Cyber-Physical Systems: A Survey of Environmental Interactions, Deepfake Threats, and Defenses* (submitted to ACM Computing Surveys). The repository contains:
 
@@ -118,8 +118,9 @@ NVD records are updated after publication (for example, CWE and CVSS assignments
 ## Limitations
 
 - **Records, not root causes.** The sweep counts CVE records. Attacks with no CVE assignment are not counted, which includes most semantic tool-poisoning attacks (T3).
-- **Keyword matching misses records.** NVD's keyword search does not match "MCP" inside longer package names such as `gemini-mcp-tool`, so the counts are a lower bound even for CVE records.
+- **Keyword matching misses records.** NVD's keyword search does not match "MCP" inside longer package names such as `gemini-mcp-tool`, so the sample omits some relevant CVE records.
 - **Keyword matching also retrieves unrelated records.** It can match unrelated uses of the acronym; the three found by inspection are excluded.
+- **A sample, not a bound.** Because keyword matching both omits and adds records, the totals describe this dated, keyword-derived sample. They are neither a lower bound nor an estimate of how common MCP vulnerabilities are.
 - **One family per record.** Classification uses only the first-listed CWE, so a record with several CWEs counts once.
 
 ## Data sources and terms
@@ -134,7 +135,7 @@ NVD records are updated after publication (for example, CWE and CVSS assignments
 
 ## Archived version
 
-Release `v1.0.0` of this repository is the snapshot the paper cites. It is archived on Zenodo as [10.5281/zenodo.23572880](https://doi.org/10.5281/zenodo.23572880); cite this version DOI. The concept DOI [10.5281/zenodo.23572879](https://doi.org/10.5281/zenodo.23572879) always resolves to the latest version. This GitHub repository is the living mirror, and later commits do not change the archived snapshot.
+Release `v1.0.1` of this repository is the snapshot the paper cites. It holds the same data, results and code as `v1.0.0` ([10.5281/zenodo.23572880](https://doi.org/10.5281/zenodo.23572880)); only the wording of the Limitations section in this README changed (the counts describe a keyword-derived sample, not a lower bound). Every release is archived on Zenodo. The concept DOI [10.5281/zenodo.23572879](https://doi.org/10.5281/zenodo.23572879) always resolves to the latest version, and that record shows the version DOI to cite. This GitHub repository is the living mirror, and later commits do not change an archived snapshot.
 
 ## Contact
 
